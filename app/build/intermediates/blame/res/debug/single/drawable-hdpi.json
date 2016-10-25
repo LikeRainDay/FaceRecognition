@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\companyCode\\FaceRecognitionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\companyCode\\FaceRecognitionDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\companyCode\\FaceRecognitionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_normal.png",
+        "source": "D:\\companyCode\\FaceRecognitionDemo1\\app\\src\\main\\res\\drawable-hdpi\\camera_normal.png"
+    },
+    {
+        "merged": "D:\\companyCode\\FaceRecognitionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_press.png",
+        "source": "D:\\companyCode\\FaceRecognitionDemo1\\app\\src\\main\\res\\drawable-hdpi\\camera_press.png"
+    }
+]

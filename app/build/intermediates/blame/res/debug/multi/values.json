@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "D:\\companyCode\\FaceRecognitionDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "D:\\companyCode\\FaceRecognitionDemo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 56,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 75,
+                    "endOffset": 183
+                },
+                "from": {
+                    "file": "D:\\companyCode\\FaceRecognitionDemo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 75,
+                        "endOffset": 130
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="30357769230726"
+    token="-473188720125768218"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="298" />
+    <task
+        name="instant-run-dex"
+        duration="818" />
+    <task
+        name="instant-run-transform"
+        duration="15" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="D:\companyCode\FaceRecognitionDemo1\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="30063166389363"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\companyCode\FaceRecognitionDemo1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="30194899139796"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\companyCode\FaceRecognitionDemo1\app\build\intermediates\builds\debug\30194899139796\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="30357769230726"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\companyCode\FaceRecognitionDemo1\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

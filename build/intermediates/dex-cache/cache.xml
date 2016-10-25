@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\companyCode\FaceRecognitionDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="61d96e065445190e08d912d6aab5097b862735c1">
+        <dex dex="D:\companyCode\FaceRecognitionDemo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_50f193f8aff21e1dd6eaa79fabb0f347351ec81b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\companyCode\FaceRecognitionDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a0944ce8cd96d586eb4857f458406becebaa68af">
+        <dex dex="D:\companyCode\FaceRecognitionDemo1\app\build\intermediates\pre-dexed\debug\instant-run_6f2aaa974fce034bdcce38e0f7b8e6abef718f0a.jar" />
+    </item>
+
+</items>
